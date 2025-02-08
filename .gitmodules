@@ -1,3 +1,6 @@
 [submodule "JAVA_primeiros_passos"]
 	path = JAVA_primeiros_passos
 	url = git@github.com:rafa-soares/JAVA_primeiros_passos.git
+[submodule "JAVA_do_zero_ao_profissional"]
+	path = JAVA_do_zero_ao_profissional
+	url = git@github.com:rafa-soares/JAVA_do_zero_ao_profissional.git
